@@ -1,13 +1,6 @@
-# React + Vite
+# Desafío context API
 
-## Install
+## Repositorio de Github
+https://github.com/Fer-CA/react-context
 
-```bash
-npm install
-```
 
-## Run
-
-```bash
-npm run dev
-```
